@@ -1,0 +1,23 @@
+{
+  "name": "otsdj-api",
+  "version": "1.0.0",
+  "description": "Api restfull in Node.JS. **Build on Heroku**",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagosbraga/otsdj-api.git"
+  },
+  "author": "Thiago Braga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thiagosbraga/otsdj-api/issues"
+  },
+  "homepage": "https://github.com/thiagosbraga/otsdj-api#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
